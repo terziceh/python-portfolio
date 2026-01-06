@@ -1,5 +1,3 @@
-# CarMax Analysis
-
 # CarMax Purchase Gap Analysis  
 Fall 2024 CarMax Analytics Showcase
 
