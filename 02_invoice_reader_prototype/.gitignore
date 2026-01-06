@@ -1,0 +1,12 @@
+# Virtual env
+.venv/
+
+# Secrets
+.env
+
+# Outputs
+outputs/
+*.sqlite
+
+# Python cache
+__pycache__/
