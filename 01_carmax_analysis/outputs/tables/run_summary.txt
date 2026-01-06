@@ -1,0 +1,27 @@
+CarMax Purchase Gap Analysis
+DATA_PATH=C:\Users\terzi\repos\python-portfolio\01_carmax_analysis\data\Fall 2024 Dataset.csv
+TARGET_COL=purchase_flag
+Accuracy=0.9639
+Precision=0.9762
+
+Top improvement states (by purchase_gap):
+state  purchase_gap
+   CA     14.600967
+   MD     11.513784
+   MO     11.193892
+   DE     10.831741
+   OR     10.067430
+   NV      9.388121
+   NC      8.432927
+   PA      8.390866
+   TN      8.303541
+   IN      5.189136
+
+Top marketing levers:
+               feature  priority_score
+        num_web_visits        0.025565
+      finance_customer        0.008842
+ service_plan_customer        0.003273
+campaign_b_touchpoints        0.000476
+     total_touchpoints        0.000203
+campaign_c_touchpoints        0.000084
