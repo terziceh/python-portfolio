@@ -1,2 +1,2 @@
 # python-portfolio
-Person Python project
+Personal Python project portfolio
