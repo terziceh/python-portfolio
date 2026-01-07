@@ -7,59 +7,59 @@ Each project is built using real-world datasets and emphasizes reproducibility, 
 
 ## Projects
 
-### 1. GovDeals Sales Analysis
-**Folder:** `03_govdeals_sales_analysis`
+### 01. CarMax Sales & Location Analysis
+**Folder:** `01_carmax_analysis`
 
-Automated a multi-year GovDeals auction performance report originally built in Excel.  
-This project cleans raw GovDeals export data, generates summary tables, and produces publication-ready visualizations.
+Exploratory analysis of CarMax sales and geographic data to support store placement and marketing strategy decisions.
 
 **Key features**
-1. Identification of top-selling items and revenue-driving categories
-2. Analysis of high-traffic listings with no bids
-3. Revenue split scenario comparison
-4. Break-even analysis for annual overhead coverage
+01. Conversion and traffic analysis  
+02. Location-level performance metrics  
+03. Data-driven recommendations  
 
-**Tools:** Python, pandas, numpy, matplotlib  
-**Outputs:** CSV summary tables and PNG charts
+**Tools:** Python, pandas, data visualization
 
 ---
 
-### 2. Invoice Reader Prototype
+### 02. Invoice Reader Prototype
 **Folder:** `02_invoice_reader_prototype`
 
 Developed a Python-based invoice processing prototype to extract structured data from PDF invoices.  
 The project focuses on automating manual accounting workflows and preparing data for downstream systems.
 
 **Key features**
-1. PDF ingestion and parsing
-2. Structured field extraction
-3. CSV and image-based outputs for validation
+01. PDF ingestion and parsing  
+02. Structured field extraction  
+03. CSV and image-based outputs for validation  
 
 **Tools:** Python, pandas, OCR- and LLM-assisted extraction
 
 ---
 
-### 3. CarMax Sales & Location Analysis
-**Folder:** `01_carmax_analysis`
+### 03. GovDeals Sales Analysis
+**Folder:** `03_govdeals_sales_analysis`
 
-Exploratory analysis of CarMax sales and geographic data to support store placement and marketing strategy decisions.
+Automated a multi-year GovDeals auction performance report originally built in Excel.  
+This project cleans raw GovDeals export data, generates summary tables, and produces publication-ready visualizations.
 
 **Key features**
-1. Conversion and traffic analysis
-2. Location-level performance metrics
-3. Data-driven recommendations
+01. Identification of top-selling items and revenue-driving categories  
+02. Analysis of high-traffic listings with no bids  
+03. Revenue split scenario comparison  
+04. Break-even analysis for annual overhead coverage  
 
-**Tools:** Python, pandas, data visualization
+**Tools:** Python, pandas, numpy, matplotlib  
+**Outputs:** CSV summary tables and PNG charts
 
 ---
 
 ## Skills Demonstrated
-1. Data cleaning and preprocessing
-2. Handling messy, real-world CSV exports
-3. Replacing Excel-based workflows with Python automation
-4. Exploratory data analysis and visualization
-5. Structuring maintainable Python projects
-6. Communicating insights through clear, reproducible outputs
+01. Data cleaning and preprocessing  
+02. Handling messy, real-world CSV exports  
+03. Replacing Excel-based workflows with Python automation  
+04. Exploratory data analysis and visualization  
+05. Structuring maintainable Python projects  
+06. Communicating insights through clear, reproducible outputs  
 
 ---
 
