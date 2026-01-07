@@ -44,6 +44,8 @@ This highlights how a small number of high-value assets account for a large shar
 - `outputs/figures/top10_gross_sales_items.png`
 - `outputs/tables/top10_gross_sales_items.csv`
 
+![Top 10 Gross Sales Items](outputs/figures/top10_gross_sales_items.png)
+
 ---
 
 ### Top 10 No-Bid Items by Visitors
@@ -54,6 +56,8 @@ These listings represent opportunities to improve pricing strategy, reserve leve
 - `outputs/figures/top10_no_bid_items_visitors.png`
 - `outputs/tables/top10_no_bid_items_visitors.csv`
 
+![Top 10 No-Bid Items by Visitors](outputs/figures/top10_no_bid_items_visitors.png)
+
 ---
 
 ### Highest Net Sales Categories (FY 2022–2024)
@@ -63,6 +67,8 @@ Aggregates net results by category across recent fiscal years to identify consis
 - `outputs/figures/top10_categories_net_results.png`
 - `outputs/tables/top10_categories_net_results.csv`
 
+![Highest Net Sales Categories](outputs/figures/top10_categories_net_results.png)
+
 ---
 
 ### Revenue Split Comparison
@@ -71,6 +77,8 @@ Compares original vs. revised revenue split structures and quantifies their impa
 **Outputs**
 - `outputs/figures/split_comparison.png`
 - `outputs/tables/split_comparison_by_year.csv`
+
+![Revenue Split Comparison](outputs/figures/split_comparison.png)
 
 ---
 
